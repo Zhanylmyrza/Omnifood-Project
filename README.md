@@ -1,4 +1,7 @@
 # Omnifood-Project
+The link below is my final project which is responsive perfectly!!! Not only in desctop even in mobiles
+https://omnifood-zhanylmyrza.netlify.app/
+
 Setup and Desktop Version
 ![image](https://user-images.githubusercontent.com/93324684/149908712-5d708d17-74f9-40f0-830a-42e84c5915a0.png)
 ![image](https://user-images.githubusercontent.com/93324684/149908954-220697d4-9c84-4b3d-83bd-c5ff9927ff5a.png)
